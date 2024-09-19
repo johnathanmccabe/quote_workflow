@@ -1,0 +1,27 @@
+{
+    "id": "3AA8F36F",
+    "path": "C:/Users/johna/github/quote_workflow/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "3555469725",
+    "contents": "",
+    "dirty": false,
+    "created": 1726683914609.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "87,9",
+        "scrollLine": "66"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1726685608,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1726685608201,
+    "read_only": false,
+    "read_only_alternatives": []
+}
